@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL"/>&nbsp
-  <img src="https://img.shields.io/badge/-Apollo-311C87?logo=Apollo"/>&nbsp
+  <img src="https://img.shields.io/badge/-Apollo-311C87?logo=ApolloGraphQL"/>&nbsp
   <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=Prisma&logoColor=white"/>&nbsp
   <br>
   <br>
