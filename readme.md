@@ -9,8 +9,8 @@
   <br>
   <img src="https://img.shields.io/badge/-C++-00599C?logo=C%2b%2b&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white"/>&nbsp
   <br>
   <br>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white"/>&nbsp
@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL"/>&nbsp
+  <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?logo=Apollo"/>&nbsp
   <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=Prisma&logoColor=white"/>&nbsp
   <br>
   <br>
@@ -37,6 +38,7 @@
   <img src="https://img.shields.io/badge/-AWS-232F3E?logo=Amazon%20AWS&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=white"/>&nbsp
   <br>
   <br>
 </p>
