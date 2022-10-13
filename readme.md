@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-Ruby-CC342D?logo=Ruby&logoColor=white"/>&nbsp
   <br>
   <br>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white"/>&nbsp
@@ -29,6 +30,7 @@
   <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL"/>&nbsp
   <img src="https://img.shields.io/badge/-Apollo-311C87?logo=ApolloGraphQL"/>&nbsp
   <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=Prisma&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-Ruby on Rails-CC0000?logo=RubyonRails&logoColor=white"/>&nbsp
   <br>
   <br>
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white"/>
@@ -39,6 +41,9 @@
   <img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=white"/>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/-GithubActions-2088FF?logo=GitHubActions&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-CircleCI-10AF5A?logo=CircleCI&logoColor=white"/>&nbsp
   <br>
   <br>
 </p>
